@@ -1,5 +1,11 @@
 ![](https://travis-ci.org/smallnest/C1000K-Servers.svg?branch=master)
 
+### fork 批注
+JAVA高性能socket服务器的性能比较，在作者的个人网站上，还有关系linux tcp/ip 调优、参数配置等内容。
+
+
+### 以下为原readme内容
+
 This project provides eight high performance websocket server implementation and can be used to test their benchmark.
 
 
